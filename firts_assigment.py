@@ -1,8 +1,4 @@
-decimal = 10
-try:
-    decimal = int(input(f"Enter a positive number between 1 and 3999: "))
-except:
-    print("You must enter a number. Letters or special characters are not valid")
+decimal = int(1)
 
 def romans_converted(decimal): 
 
@@ -106,14 +102,11 @@ def romans_converted(decimal):
         
         return romans_numbers
         
-    else:
-        
         if decimal > 3999:
-            print("You must enter a decimal value less than 3999, the value you have entered is:", decimal)    
+            return None
         else:
             print("You must enter a decimal value greater than 0, the value you have entered is:", decimal) 
             
-        
             
                
         
