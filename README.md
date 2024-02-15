@@ -5,6 +5,7 @@ Requerimintos para correr el archivo  de pruebas(test_converted.py):
 
 pip install  pytest
 ~~~
+[Link lista de reproduccion en Youtube](https://www.youtube.com/playlist?list=PLxFn4mrvRfPWsBPl-b2qXOJt3vewYHNCu)
 
 ## 1.  ¿Qué es un Coding Dojo?
 
